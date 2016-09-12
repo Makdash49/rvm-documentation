@@ -1,7 +1,7 @@
 # rvm-documentation
 RVM documentation using the Cloud Foundry Bookbinder template
 
-To see the Mark's RVM documentation
+To see the Mark's RVM documentation:
 
 1. Clone repo to your computer
 2. cd into repo
